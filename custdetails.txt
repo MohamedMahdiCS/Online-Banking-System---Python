@@ -1,0 +1,3 @@
+Ali123:Cust6245:Ali:S:14122000:M:Ali@gmail.com:2000
+Ahmed123:Cust1234:Ahmed:S:17022001:M:Ahmed@gmail.com:2000
+Mohamed123:Cust4251:Mohamed:C:15012001:M:Mohamed@gmail.com:2000
